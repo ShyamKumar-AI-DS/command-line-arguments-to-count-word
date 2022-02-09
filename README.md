@@ -23,7 +23,8 @@ Give print.
 ## PROGRAM:
 ~~~
 # Developed by Shyam Kumar.A
-#o write a program for getting the word count from the contents of a file using command line arguments.
+# Ref no: 21001647
+# To write a program for getting the word count from the contents of a file using command line arguments.
 
 import sys
 
